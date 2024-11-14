@@ -3,4 +3,4 @@ jam kerja per bulan, apakah pernah kecelakaan,
 apakah gaji termasuk kecil, sedang atau besar, 
 dan bagaimana responmu terhadap gaji tersebut 
 
-maka hasil prediksi akan ditampilkan.
+maka hasil prediksi akan ditampilkan. 
